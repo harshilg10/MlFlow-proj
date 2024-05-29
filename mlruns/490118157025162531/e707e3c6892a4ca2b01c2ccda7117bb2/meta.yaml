@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/harshil/Desktop/proj/mlruns/490118157025162531/e707e3c6892a4ca2b01c2ccda7117bb2/artifacts
+end_time: 1716890609029
+entry_point_name: ''
+experiment_id: '490118157025162531'
+lifecycle_stage: active
+run_id: e707e3c6892a4ca2b01c2ccda7117bb2
+run_name: omniscient-tern-402
+run_uuid: e707e3c6892a4ca2b01c2ccda7117bb2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716890595107
+status: 3
+tags: []
+user_id: harshil

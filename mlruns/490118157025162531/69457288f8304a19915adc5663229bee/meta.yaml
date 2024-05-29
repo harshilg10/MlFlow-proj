@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/harshil/Desktop/proj/mlruns/490118157025162531/69457288f8304a19915adc5663229bee/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '490118157025162531'
+lifecycle_stage: active
+run_id: 69457288f8304a19915adc5663229bee
+run_name: peaceful-goose-73
+run_uuid: 69457288f8304a19915adc5663229bee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716859545130
+status: 1
+tags: []
+user_id: harshil

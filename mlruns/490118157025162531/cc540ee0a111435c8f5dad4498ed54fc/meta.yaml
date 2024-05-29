@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/harshil/Desktop/proj/mlruns/490118157025162531/cc540ee0a111435c8f5dad4498ed54fc/artifacts
+end_time: 1716861202524
+entry_point_name: ''
+experiment_id: '490118157025162531'
+lifecycle_stage: active
+run_id: cc540ee0a111435c8f5dad4498ed54fc
+run_name: whimsical-finch-998
+run_uuid: cc540ee0a111435c8f5dad4498ed54fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716861201509
+status: 3
+tags: []
+user_id: harshil

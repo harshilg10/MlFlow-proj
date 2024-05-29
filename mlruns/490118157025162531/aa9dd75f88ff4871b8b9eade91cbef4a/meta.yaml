@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/harshil/Desktop/proj/mlruns/490118157025162531/aa9dd75f88ff4871b8b9eade91cbef4a/artifacts
+end_time: 1716889222159
+entry_point_name: ''
+experiment_id: '490118157025162531'
+lifecycle_stage: active
+run_id: aa9dd75f88ff4871b8b9eade91cbef4a
+run_name: nimble-slug-703
+run_uuid: aa9dd75f88ff4871b8b9eade91cbef4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716889221262
+status: 3
+tags: []
+user_id: harshil

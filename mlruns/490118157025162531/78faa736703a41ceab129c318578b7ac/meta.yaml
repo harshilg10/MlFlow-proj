@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/harshil/Desktop/proj/mlruns/490118157025162531/78faa736703a41ceab129c318578b7ac/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '490118157025162531'
+lifecycle_stage: active
+run_id: 78faa736703a41ceab129c318578b7ac
+run_name: classy-mink-142
+run_uuid: 78faa736703a41ceab129c318578b7ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716888385378
+status: 1
+tags: []
+user_id: harshil

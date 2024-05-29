@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/harshil/Desktop/proj/mlruns/130635405561663756/3277155c799c47c28993f1d8fcc14881/artifacts
+end_time: 1716603473158
+entry_point_name: ''
+experiment_id: '130635405561663756'
+lifecycle_stage: active
+run_id: 3277155c799c47c28993f1d8fcc14881
+run_name: silent-toad-474
+run_uuid: 3277155c799c47c28993f1d8fcc14881
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716603473151
+status: 3
+tags: []
+user_id: harshil

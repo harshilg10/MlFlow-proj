@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/harshil/Desktop/proj/mlruns/490118157025162531/6f3ebe07aa4d40319d0bdb3d1f3c7b2a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '490118157025162531'
+lifecycle_stage: active
+run_id: 6f3ebe07aa4d40319d0bdb3d1f3c7b2a
+run_name: marvelous-ram-146
+run_uuid: 6f3ebe07aa4d40319d0bdb3d1f3c7b2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716786933666
+status: 1
+tags: []
+user_id: harshil

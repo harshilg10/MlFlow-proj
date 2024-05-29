@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/harshil/Desktop/proj/mlruns/146270553618642723/32b60c1dbfdc48e0b8988b254750d5f7/artifacts
+end_time: 1716775752083
+entry_point_name: ''
+experiment_id: '146270553618642723'
+lifecycle_stage: active
+run_id: 32b60c1dbfdc48e0b8988b254750d5f7
+run_name: vaunted-shrimp-769
+run_uuid: 32b60c1dbfdc48e0b8988b254750d5f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716775750980
+status: 3
+tags: []
+user_id: harshil

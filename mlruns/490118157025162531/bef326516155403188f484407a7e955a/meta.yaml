@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/harshil/Desktop/proj/mlruns/490118157025162531/bef326516155403188f484407a7e955a/artifacts
+end_time: 1716890747878
+entry_point_name: ''
+experiment_id: '490118157025162531'
+lifecycle_stage: active
+run_id: bef326516155403188f484407a7e955a
+run_name: nebulous-moose-126
+run_uuid: bef326516155403188f484407a7e955a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716890746948
+status: 3
+tags: []
+user_id: harshil

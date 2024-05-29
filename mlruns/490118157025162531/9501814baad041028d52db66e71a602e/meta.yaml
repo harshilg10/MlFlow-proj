@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/harshil/Desktop/proj/mlruns/490118157025162531/9501814baad041028d52db66e71a602e/artifacts
+end_time: 1716861200535
+entry_point_name: ''
+experiment_id: '490118157025162531'
+lifecycle_stage: active
+run_id: 9501814baad041028d52db66e71a602e
+run_name: amazing-roo-480
+run_uuid: 9501814baad041028d52db66e71a602e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716861199208
+status: 3
+tags: []
+user_id: harshil

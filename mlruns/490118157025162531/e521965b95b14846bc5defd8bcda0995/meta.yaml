@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/harshil/Desktop/proj/mlruns/490118157025162531/e521965b95b14846bc5defd8bcda0995/artifacts
+end_time: 1716861468155
+entry_point_name: ''
+experiment_id: '490118157025162531'
+lifecycle_stage: active
+run_id: e521965b95b14846bc5defd8bcda0995
+run_name: brawny-kite-889
+run_uuid: e521965b95b14846bc5defd8bcda0995
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716861466855
+status: 3
+tags: []
+user_id: harshil

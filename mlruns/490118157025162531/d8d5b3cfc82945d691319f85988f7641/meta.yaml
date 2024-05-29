@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/harshil/Desktop/proj/mlruns/490118157025162531/d8d5b3cfc82945d691319f85988f7641/artifacts
+end_time: 1716889223115
+entry_point_name: ''
+experiment_id: '490118157025162531'
+lifecycle_stage: active
+run_id: d8d5b3cfc82945d691319f85988f7641
+run_name: unruly-ray-631
+run_uuid: d8d5b3cfc82945d691319f85988f7641
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716889222160
+status: 3
+tags: []
+user_id: harshil

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/harshil/Desktop/proj/mlruns/490118157025162531/413fb2c46cd5478ca8dfa246cf8f230c/artifacts
+end_time: 1716958092013
+entry_point_name: ''
+experiment_id: '490118157025162531'
+lifecycle_stage: active
+run_id: 413fb2c46cd5478ca8dfa246cf8f230c
+run_name: dapper-owl-598
+run_uuid: 413fb2c46cd5478ca8dfa246cf8f230c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716958091135
+status: 3
+tags: []
+user_id: harshil

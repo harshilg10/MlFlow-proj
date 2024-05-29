@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/harshil/Desktop/proj/mlruns/490118157025162531/06cdbb2e655e4a3fb222552816b27114/artifacts
+end_time: 1716955512621
+entry_point_name: ''
+experiment_id: '490118157025162531'
+lifecycle_stage: active
+run_id: 06cdbb2e655e4a3fb222552816b27114
+run_name: gregarious-steed-48
+run_uuid: 06cdbb2e655e4a3fb222552816b27114
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716955511315
+status: 3
+tags: []
+user_id: harshil

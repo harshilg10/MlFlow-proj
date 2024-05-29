@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/harshil/Desktop/proj/mlruns/490118157025162531/3a184e120bb1457c8c9a24bcbe2d0ced/artifacts
+end_time: 1716890748922
+entry_point_name: ''
+experiment_id: '490118157025162531'
+lifecycle_stage: active
+run_id: 3a184e120bb1457c8c9a24bcbe2d0ced
+run_name: omniscient-goat-280
+run_uuid: 3a184e120bb1457c8c9a24bcbe2d0ced
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716890747880
+status: 3
+tags: []
+user_id: harshil

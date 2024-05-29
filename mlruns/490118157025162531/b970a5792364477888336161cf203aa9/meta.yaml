@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/harshil/Desktop/proj/mlruns/490118157025162531/b970a5792364477888336161cf203aa9/artifacts
+end_time: 1716890608643
+entry_point_name: ''
+experiment_id: '490118157025162531'
+lifecycle_stage: active
+run_id: b970a5792364477888336161cf203aa9
+run_name: rare-donkey-765
+run_uuid: b970a5792364477888336161cf203aa9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716890607555
+status: 3
+tags: []
+user_id: harshil

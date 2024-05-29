@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/harshil/Desktop/proj/mlruns/490118157025162531/a08c1a03209e44ce8b4e2c9a224fe331/artifacts
+end_time: 1716861201508
+entry_point_name: ''
+experiment_id: '490118157025162531'
+lifecycle_stage: active
+run_id: a08c1a03209e44ce8b4e2c9a224fe331
+run_name: brawny-carp-821
+run_uuid: a08c1a03209e44ce8b4e2c9a224fe331
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716861200536
+status: 3
+tags: []
+user_id: harshil

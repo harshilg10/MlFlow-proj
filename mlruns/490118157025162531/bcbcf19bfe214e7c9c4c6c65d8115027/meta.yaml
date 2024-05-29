@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/harshil/Desktop/proj/mlruns/490118157025162531/bcbcf19bfe214e7c9c4c6c65d8115027/artifacts
+end_time: 1716962719216
+entry_point_name: ''
+experiment_id: '490118157025162531'
+lifecycle_stage: active
+run_id: bcbcf19bfe214e7c9c4c6c65d8115027
+run_name: secretive-shark-768
+run_uuid: bcbcf19bfe214e7c9c4c6c65d8115027
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716962718243
+status: 3
+tags: []
+user_id: harshil

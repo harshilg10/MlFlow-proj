@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/harshil/Desktop/proj/mlruns/490118157025162531/60bf0da2c97e40ae8299e49b9800c4b7/artifacts
+end_time: 1716958090318
+entry_point_name: ''
+experiment_id: '490118157025162531'
+lifecycle_stage: active
+run_id: 60bf0da2c97e40ae8299e49b9800c4b7
+run_name: incongruous-cow-397
+run_uuid: 60bf0da2c97e40ae8299e49b9800c4b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716958088913
+status: 3
+tags: []
+user_id: harshil

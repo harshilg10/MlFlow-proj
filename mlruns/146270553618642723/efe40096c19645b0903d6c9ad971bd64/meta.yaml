@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/harshil/Desktop/proj/mlruns/146270553618642723/efe40096c19645b0903d6c9ad971bd64/artifacts
+end_time: 1716775773191
+entry_point_name: ''
+experiment_id: '146270553618642723'
+lifecycle_stage: active
+run_id: efe40096c19645b0903d6c9ad971bd64
+run_name: debonair-bird-225
+run_uuid: efe40096c19645b0903d6c9ad971bd64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716775772114
+status: 3
+tags: []
+user_id: harshil
